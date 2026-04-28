@@ -35,10 +35,10 @@ Optimized using feature selection and tuning techniques
 
 
 #Future Improvements
-🌐 Deploy as a web application
-📱 Build a mobile-friendly interface
-🧬 Improve accuracy with larger datasets
-🤖 Integrate advanced models (Deep Learning / NLP)
+ Deploy as a web application
+ Build a mobile-friendly interface
+ Improve accuracy with larger datasets
+ Integrate advanced models (Deep Learning / NLP)
 
 
 
