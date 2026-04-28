@@ -1,26 +1,26 @@
-Overview
+#Overview
 
 This project leverages machine learning to analyze user-input symptoms and predict potential diseases. Based on the prediction, the system suggests possible medications.
 
 The goal is to demonstrate how AI can assist in early-stage health awareness and decision support.
 
-Tech Stack
+#Tech Stack
 Programming Language: Python
 Libraries:
 Pandas
 NumPy
 Scikit-learn
-Model Used: Random Forest Classifier
-Tools: Jupyter Notebook / VS Code
+#Model Used: Random Forest Classifier
+#Tools: Jupyter Notebook / VS Code
 
-The dataset includes:
+#The dataset includes:
 
 Symptoms as input features
 Corresponding diseases as target labels
 
 The model was trained on data covering 40 different diseases.
 
-How It Works
+#How It Works
 User inputs symptoms
 Data is preprocessed and formatted
 Trained ML model predicts the disease
@@ -34,7 +34,7 @@ Optimized using feature selection and tuning techniques
 
 
 
-Future Improvements
+#Future Improvements
 🌐 Deploy as a web application
 📱 Build a mobile-friendly interface
 🧬 Improve accuracy with larger datasets
